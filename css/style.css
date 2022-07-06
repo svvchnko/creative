@@ -4,6 +4,9 @@
   height: 100vh;
 }
 
-h1 {
-  color: aqua;
+header ul li:first-of-type a {
+  color: #FFFFFF;
+  padding: 7px 27px 7px 33px;
+  border: 1px solid #FFFFFF;
+  border-radius: 15px;
 }/*# sourceMappingURL=style.css.map */
